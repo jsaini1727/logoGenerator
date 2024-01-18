@@ -4,5 +4,19 @@
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "name": "logogenerator",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
