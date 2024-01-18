@@ -34,7 +34,7 @@ https://github.com/jsaini1727/logoGenerator
 
 ## ScreenCastify Video Link
 ```
-
+https://app.screencastify.com/v3/watch/uP1unZrzpbHpaM7nwxGj
 ```
 
 ## Additional Requirements
