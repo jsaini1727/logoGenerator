@@ -1,8 +1,9 @@
 const questions =[
 {
     type: 'input',
-    name: 'characters',
+    name: 'text',
     message: 'Please write three characters for the text to be included in your logo.',
+    validate: text => text.length<=3 || 'Please enter 3 or fewer characters'
 },
 {
     type: 'input',
@@ -17,7 +18,7 @@ const questions =[
 },
 {
     type: 'input',
-    name: 'shapeColor',
+    name: 'userShapeColor',
     message: 'Please let us know the color of the shape you would like it to appear.',
 },
 ]
