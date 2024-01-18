@@ -2,7 +2,10 @@
 
 ## User Story
 ```
-AS a web developer, I coded a simple logo generator which I can use for various projects that I will be doing in future without the hassle of hiring a graphic designer. My journey to travel to Mars continues and now I am comfortable with the space-suit and the feeling of weightlessness....
+AS a web developer, I coded a simple logo generator which I can use for various
+projects that I will be doing in future without the hassle of hiring a graphic designer.
+My journey to travel to Mars continues and now I am comfortable with the space-suit and
+the feeling of weightlessness....
 ```
 
 ## Description
@@ -36,5 +39,6 @@ https://github.com/jsaini1727/logoGenerator
 
 ## Additional Requirements
 ```
-This logo generator was made possible by the various skills I have learnt so far but I also needed the help of technology namely: fs, inquirer, jest.
+This logo generator was made possible by the various skills I have learnt
+so far but I also needed the help of technology namely: fs, inquirer, jest.
 ```
